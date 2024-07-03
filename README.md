@@ -1,2 +1,2 @@
-# Kitab
-A bookstore website.
+# Shatranj
+A chess.com clone 
